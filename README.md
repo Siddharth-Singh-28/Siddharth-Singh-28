@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Level 1: Simple bio and stats -->
 
-<!--
-**Siddharth-Singh-28/Siddharth-Singh-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Sid 👋
 
-Here are some ideas to get you started:
+👨‍💻 Computer Science Engineering student sharing about my projects and learning in tech.<br/>
+💭 Currently learning React and getting a stronger grasp on Data Structures and Algorithms.<br/>
+🧑‍🎓 Pursuing Computer Science at [VIT Bhopal University](https://vitbhopal.ac.in/)<br/>
+💬 Ask me about Java, Web Development and Game Development.<br/>
+📫 How to reach me siddharthsingh133@gmail.com<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddharth-Singh-28&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
