@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-# Hi, I'm Sid 👋
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&center=true&width=435&lines=Hi+There+%F0%9F%91%8B!;I'm+Siddharth+Singh!" alt="Typing SVG" /></a></h1>
 
 👨‍💻 Computer Science Engineering student sharing about my projects and learning in tech.<br/>
 💭 Currently learning React and getting a stronger grasp on Data Structures and Algorithms.<br/>
