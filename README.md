@@ -23,11 +23,5 @@
 
 <br/>
 
-## 📊 Github Stats:
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddharth-Singh-28&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
-
-
 
 
